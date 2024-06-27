@@ -1,0 +1,18 @@
+export const mySkills = [
+  { id: 1, name: "HTML", logo: "" },
+  { id: 2, name: "CSS", logo: "" },
+  { id: 3, name: "JavaScript", logo: "" },
+  { id: 4, name: "TypeScript", logo: "" },
+  { id: 5, name: "React JS", logo: "" },
+  { id: 6, name: "Next JS", logo: "" },
+  { id: 7, name: "Express JS", logo: "" },
+  { id: 8, name: "Nest JS", logo: "" },
+  { id: 9, name: "React Native", logo: "" },
+  { id: 10, name: "Node JS", logo: "" },
+  { id: 11, name: "Tailwind CSS", logo: "" },
+  { id: 12, name: "Bootstrap", logo: "" },
+  { id: 13, name: "SASS", logo: "" },
+  { id: 14, name: "Mongo DB", logo: "" },
+  { id: 15, name: "Postgre SQL", logo: "" },
+  { id: 16, name: "Git", logo: "" },
+];
